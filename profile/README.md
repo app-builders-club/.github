@@ -1,10 +1,10 @@
-# Pet Brains
+# App Builders Club
 
 **Tools and methodology for builders who code with AI.**
 
 Open-source frameworks and workflows for shipping real products with AI agents — not endless prototypes.
 
-→ [YouTube](https://youtube.com/@petbrains)  ·  [Tools](#tools)  ·  [petbrains.dev](https://petbrains.dev)
+→ [Tools](#tools)  ·  [app-builders.club](app-builders.club)
 
 ---
 
@@ -46,26 +46,26 @@ Built in our workflow. Shared with you.
 
 Each tool started as something we needed in our own builds. Free, open source, and ready to drop into your Claude Code setup.
 
-### [mvp-builder](https://github.com/petbrains/mvp-builder)
+### [mvp-builder](https://github.com/app-builders-club/mvp-builder)
 *👉 Start here — this is the foundation everything else plugs into.*  
 **Build MVPs with an AI agent that verifies its own work.**  
 A Document-Driven Development framework for Claude Code. Specs generate code, TDD cycles guarantee tests, self-review catches the agent before it commits broken work, and session memory keeps context across runs.
 
-### [design-builder](https://github.com/petbrains/design-builder)
+### [design-builder](https://github.com/app-builders-club/design-builder)
 **Design plugin for Claude Code — distinctive production-grade interfaces on web and iOS.**  
 Four user-facing commands (`/setup`, `/create`, `/improve`, `/review`) cover the full design pipeline. A knowledge-base skill (anti-patterns, motion, HIG, BM25 search) backed by `designlib-mcp` does the heavy lifting. You stay in conversation with one of four entry points.
 
-### [designlib-mcp](https://github.com/petbrains/designLib-mcp)
+### [designlib-mcp](https://github.com/app-builders-club/designLib-mcp)
 **A curated design-knowledge catalog for AI coding agents.**  
 Stop letting Claude, Cursor, or Copilot guess hex codes and font pairings. Give them a real, opinionated source of truth — over MCP. Powers `design-builder` and works standalone in any MCP-capable client.
 
-*Follow on [YouTube](https://youtube.com/@petbrains) for new tools as they drop. If a tool clicks for you, ⭐ the repo — helps us prioritize what to build next.*
+*Follow on YouTube for new tools as they drop. If a tool clicks for you, ⭐ the repo — helps us prioritize what to build next.*
 
 ---
 
 ## Beyond the tools
 
-Tools are an instance of the methodology. **[petbrains.dev](https://petbrains.dev)** is where we write up the methodology itself — walkthroughs, build films, and deeper dives into how we work. Subscribe there to get new posts in your inbox.
+Tools are an instance of the methodology. **[app-builders.club](https://app-builders.club)** is where we write up the methodology itself — walkthroughs, build films, and deeper dives into how we work. Subscribe there to get new posts in your inbox.
 
 ---
 
