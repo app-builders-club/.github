@@ -4,7 +4,7 @@
 
 Open-source frameworks and workflows for shipping real products with AI agents — not endless prototypes.
 
-→ [Tools](#tools)  ·  [app-builders.club](app-builders.club)
+→ [Tools](#tools)  ·  [YouTube](https://www.youtube.com/@appbuildersclub)  ·  [app-builders.club](https://app-builders.club)
 
 ---
 
@@ -59,7 +59,7 @@ Four user-facing commands (`/setup`, `/create`, `/improve`, `/review`) cover the
 **A curated design-knowledge catalog for AI coding agents.**  
 Stop letting Claude, Cursor, or Copilot guess hex codes and font pairings. Give them a real, opinionated source of truth — over MCP. Powers `design-builder` and works standalone in any MCP-capable client.
 
-*Follow on YouTube for new tools as they drop. If a tool clicks for you, ⭐ the repo — helps us prioritize what to build next.*
+*Follow on [YouTube](https://www.youtube.com/@appbuildersclub) for new tools as they drop. If a tool clicks for you, ⭐ the repo — helps us prioritize what to build next.*
 
 ---
 
